@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chat Bot**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Neural Networks, RNN, CNN, NLP, openCV**
 
 - 📫 How to reach me **ss9941@srmist.edu.in**
 

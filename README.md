@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Siddhanth Dubey</h1>
-<h3 align="center">A passionate Machine learning Engineer</h3>
+<h3 align="center">A passionate Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhanthdubey&label=Profile%20views&color=0e75b6&style=flat" alt="siddhanthdubey" /> </p>
 
@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on **Chat Bot**
 
 - 🌱 I’m currently learning **Neural Networks**
-
-- 👯 I’m looking to collaborate on **Machine Learning projects**
 
 - 📫 How to reach me **ss9941@srmist.edu.in**
 

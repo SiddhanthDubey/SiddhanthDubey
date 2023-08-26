@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhanthdubey" alt="siddhanthdubey" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Bot**
+- 🔭 I’m currently working on **Chrome Dino Game**
 
-- 🌱 I’m currently learning **Neural Networks, RNN, CNN, NLP, openCV**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 📫 How to reach me **ss9941@srmist.edu.in**
 
